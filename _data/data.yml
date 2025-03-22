@@ -115,13 +115,13 @@ profile:
 
 education:
   show: true
-  order: 5
+  order: 4
   title: Education
   description: |
 
   items:
     - institution: Istanbul Technical University
-      link: '#'
+      link: 
       date: 2021.03 - Now
       major: Computer Engineering
       degree: PhD Candidate
@@ -136,13 +136,30 @@ education:
 
 
     - institution: SICT(Shanghai Institute of Computing Technology)
-      link: '#'
+      link: 
       date: 2017.09 - 2020.03
       major: Engineering Computer Software and Theory
       degree: Master
 
     - institution: Liaocheng University, China
-      link: '#'
+      link: 
       date: 2012.09 - 2016.07
       major: Computer Science and Technology
       degree: Bachelor
+
+
+experience:
+  show: true
+  order: 1
+  title: Work Experiences
+  description: |
+
+  items:
+    - company: Shanghai Shen Teng Technology Co., Ltd.
+      link: 
+      tags:
+      date: 2017.09 - 2020.03
+      role: Student Intern
+      location: Shanghai, China
+      description: |
+        Working on smart city related projects in the R&D department
