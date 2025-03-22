@@ -172,9 +172,8 @@ publication:
 
   items:
     - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
+      description: |
+        Working on smart city related projects in the R&D department
     - title: The Art of Example Publication
       authors: Foo Bar
       conference: Foobar, 2019
