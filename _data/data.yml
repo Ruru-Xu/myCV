@@ -164,17 +164,34 @@ experience:
       description: |
         Working on smart city related projects in the R&D department
 
-publication:
+project:
   show: true
   order: 4
   title: Publications
   description: |
 
   items:
-    - title: Example Publication in Action
+    - name: Journal Papers
+      link: 
+      tags:
+      date: 
       description: |
-        Working on smart city related projects in the R&D department
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
+        + `Xu, Ruru`, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity." Neurocomputing (2025). [Q1; IF:5.5; CiteScore:13.1] just Accepted, Available online very soon
+        + Fanwen Wang,..etc… `Xu, Ruru, and Ilkay Oksuz`..etc… . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge." arXiv preprint arXiv:2503.03971 (2025). (Submitted to TMI; Under Review); [Top Journal; IF:8.9; CiteScore:21.8]
+        + `Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. [Q1; IF:4.2; CiteScore:8.5] | Citations: 1
+
+    - name: Conference Papers 
       link:
+      tags: 
+      date:
+      description: |
+        + `Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." [MICCAI 2024 -CMRxRecon2024 Challenge] | Citations: 1
+        + `Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." [MICCAI 2022, STACOM Workshop] | Citations: 2
+        + `Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019. | Citations: 2
+
+    - name: Master Theses 
+      link:
+      tags: 
+      date:
+      description: |
+        + `Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 200
