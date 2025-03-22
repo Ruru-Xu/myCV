@@ -169,47 +169,26 @@ publication:
   show: true
   order: 4
   title: Publications
+  description: |
+
   items:
     - title: Journal Papers
       description: |
-        - "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity"
-          Authors: Xu, Ruru and Ilkay Oksuz
-          Status: Just Accepted, Available online very soon
-          Metrics: Q1; IF:5.5; CiteScore:13.1
+        `Xu, Ruru`, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
 
-        - "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge"
-          Authors: Fanwen Wang, Xu, Ruru, Ilkay Oksuz, et al.
-          Status: Submitted to Top Journal TMI; Under Review
-          Metrics: IF:8.9; CiteScore:21.8
+        Fanwen Wang,..etc… `Xu, Ruru, and Ilkay Oksuz`..etc… . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Submitted to Top Journal TMI; Under Review; IF:8.9; CiteScore:21.8)
 
-        - "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning"
-          Authors: Xu, Ruru and Ilkay Oksuz
-          Published: Image and Vision Computing 150 (2024): 105200
-          Metrics: Q1; IF:4.2; CiteScore:8.5
-          Citations: 1
+        `Xu, Ruru`, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5) | Citations: 1
 
-    - title: Conference Papers
+    - title: Conference Papers  
       description: |
-        - "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss"
-          Authors: Xu, Ruru, Caner Özer, and Ilkay Oksuz
-          Venue: MICCAI 2024 (CMRxRecon2024 Challenge)
-          Citations: 1
+        `Xu, Ruru`, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
 
-        - "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping"
-          Authors: Xu, Ruru and Ilkay Oksuz
-          Venue: MICCAI 2022, STACOM Workshop
-          Citations: 2
+        `Xu, Ruru`, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
 
-        - "Banknotes serial number coding recognition"
-          Authors: Xu, Ruru, Jungang An, Liandeng Su, and Xinli Min
-          Venue: 2019 IEEE International Conference on Big Data (Big Data)
-          Pages: 5101-5107
-          Citations: 2
+        `Xu, Ruru`, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019. | Citations: 2
 
     - title: Thesis
       description: |
-        - "Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision"
-          Type: Master's Thesis
-          Database: Chinese Master's Theses Full-text Database
-          Date: March 2, 2020
-          Impact: Cited by 3, Downloaded by 200
+        Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 200
+
