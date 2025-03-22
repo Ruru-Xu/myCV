@@ -219,3 +219,33 @@ language:
   title: Languages
   description: |
     TOEFL score: Score: 108 · Jan 2021, Reading:28, Listening:26, Speaking:24, Writing:30
+
+
+reference:
+  show: true
+  order: 7
+  title: References
+  description: |
+
+  items:
+    - name: Ilkay Oksuz
+      link: https://sites.google.com/view/oksuzilkay/
+      title: 
+      institution: 
+      address: 
+      email: oksuzilkay@itu.edu.tr
+      phone: 
+      description: |
+       Assoc. Prof., Istanbul Technical University, Computer Engineering Department
+       Research Associate, King's College London, Biomedical Engineering Department
+        
+
+    - name: Bar Two
+      link:
+      title: Professor
+      institution: Example University
+      address: 4321 Example St, YYY, XY 22222
+      email: bar.two@example.com
+      phone: 444-555-666
+      description: |
+        Bar Two was my advisor at Example University.
