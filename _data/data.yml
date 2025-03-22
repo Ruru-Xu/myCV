@@ -208,9 +208,9 @@ award:
       date: 
       link: 
       description: |
-        We are <span style="color: #ff4d4f">Top 6</span> in Task 1: Multi-contrast CMR reconstruction.
+        <span style="color: #ff4d4f">Top 6</span> in Task 1: Multi-contrast CMR reconstruction.
         
-        We are <span style="color: #ff4d4f">Top 5</span> in Task 2: Random sampling CMR reconstruction.
+        <span style="color: #ff4d4f">Top 5</span> in Task 2: Random sampling CMR reconstruction.
         
 
 language:
