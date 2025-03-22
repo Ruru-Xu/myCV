@@ -172,9 +172,12 @@ publication:
 
   items:
     - title: Journal Papers
-      authors: [Xu, Ruru]{.author}, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
-      conference: Fanwen Wang,...etc... [Xu, Ruru, and Ilkay Oksuz]{.author}...etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: TMI; IF:8.9; CiteScore:21.8)
-      link: 
+        - authors: 
+            - Xu, Ruru
+            - Ilkay Oksuz
+          title: A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity
+          status: Just Accepted, Available online very soon
+          metrics: Q1; IF:5.5; CiteScore:13.1
     - title: Conference Papers
       authors: [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
       conference: [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
