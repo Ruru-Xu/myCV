@@ -133,9 +133,7 @@ education:
       major: Lab of Interactive Media Computing
       degree: Exchange learning
       description: |
-        # Additional information for this institution.
-        # + First
-        # + Second
+
 
     - institution: SICT(Shanghai Institute of Computing Technology)
       link: '#'
