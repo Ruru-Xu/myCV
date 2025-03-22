@@ -169,65 +169,28 @@ publication:
   show: true
   order: 4
   title: Publications
-  description: My research focuses on medical image processing and deep learning.
+  description: |
+    My research focuses on medical image processing and deep learning.
+
   items:
     - title: Journal Papers
-      items:
-        - authors: 
-            - Xu, Ruru
-            - Ilkay Oksuz
-          title: A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity
-          status: Just Accepted, Available online very soon
-          metrics: Q1; IF:5.5; CiteScore:13.1
+      description: |
+        [Xu, Ruru]{.author}, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
 
-        - authors:
-            - Fanwen Wang
-            - Xu, Ruru
-            - Ilkay Oksuz
-          title: Towards Universal Learning-based Model for Cardiac Image Reconstruction - Summary of the CMRxRecon2024 Challenge
-          status: Submitted to Top Journal TMI; Under Review
-          metrics: IF:8.9; CiteScore:21.8
+        Fanwen Wang,...etc... [Xu, Ruru, and Ilkay Oksuz]{.author}...etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: TMI; IF:8.9; CiteScore:21.8)
+        [online]
 
-        - authors:
-            - Xu, Ruru
-            - Ilkay Oksuz
-          title: Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning
-          venue: Image and Vision Computing 150 (2024) 105200
-          metrics: Q1; IF:4.2; CiteScore:8.5
-          citations: 1
+        [Xu, Ruru]{.author}, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)
+        [online] | Citations: 1
 
-    - title: Conference Papers
-      items:
-        - authors:
-            - Xu, Ruru
-            - Caner Özer
-            - Ilkay Oksuz
-          title: HyperCMR - Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss
-          venue: MICCAI 2024 (CMRxRecon2024 Challenge)
-          citations: 1
+    - title: Conference Papers  
+      description: |
+        [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
 
-        - authors:
-            - Xu, Ruru
-            - Ilkay Oksuz
-          title: Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping
-          venue: MICCAI 2022, STACOM Workshop
-          citations: 2
+        [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
 
-        - authors:
-            - Xu, Ruru
-            - Jungang An
-            - Liandeng Su
-            - Xinli Min
-          title: Banknotes serial number coding recognition
-          venue: 2019 IEEE International Conference on Big Data (Big Data)
-          pages: 5101-5107
-          citations: 2
+        [Xu, Ruru]{.author}, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019. | Citations: 2
 
     - title: Thesis
-      items:
-        - title: Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision
-          type: Master's Thesis
-          database: Chinese Master's Theses Full-text Database
-          date: March 2, 2020
-          impact: Cited by 3, Downloaded by 200
-
+      description: |
+        Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 200
