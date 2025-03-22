@@ -237,15 +237,30 @@ reference:
       phone: 
       description: |
        Assoc. Prof., Istanbul Technical University, Computer Engineering Department
+       
        Research Associate, King's College London, Biomedical Engineering Department
         
 
-    - name: Bar Two
-      link:
-      title: Professor
-      institution: Example University
-      address: 4321 Example St, YYY, XY 22222
-      email: bar.two@example.com
-      phone: 444-555-666
+    - name: Cheng Jin
+      link: https://cjinfdu.github.io/
+      title: 
+      institution: 
+      address: 
+      email: jc@fudan.edu.cn
+      phone: 
       description: |
-        Bar Two was my advisor at Example University.
+        School of Computer Science, Shanghai Key Lab of Intelligent Information Processing, Fudan University, Shanghai, China
+        
+        Innovation Center of Calligraphy and Painting Creation Technology, MCT, China, Fudan University, Shanghai, China
+
+    - name: Xinli Min
+      link: 
+      title: 
+      institution: 
+      address: 
+      email: jc@fudan.edu.cn
+      phone: 
+      description: |
+        SICT(Shanghai Institute of Computing Technology)
+        
+        Shanghai Shen Teng Technology Co., Ltd.
