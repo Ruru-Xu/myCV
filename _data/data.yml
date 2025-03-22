@@ -113,4 +113,38 @@ profile:
    
    I earned my Bachelor’s degree in Computer Science and Technology in 2016.
 
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
 
+  items:
+    - institution: Istanbul Technical University
+      link: '#'
+      date: 2021.03 - Now
+      major: Computer Engineering
+      degree: PhD Candidate
+      description: |
+
+    - institution: Fudan University, China
+      link:
+      date: 2018.04 - 2020.03
+      major: Lab of Interactive Media Computing
+      degree: Exchange learning
+      description: |
+        # Additional information for this institution.
+        # + First
+        # + Second
+
+    - institution: SICT(Shanghai Institute of Computing Technology)
+      link: '#'
+      date: 2017.09 - 2020.03
+      major: Engineering Computer Software and Theory
+      degree: Master
+
+    - institution: Liaocheng University, China
+      link: '#'
+      date: 2012.09 - 2016.07
+      major: Computer Science and Technology
+      degree: Bachelor
