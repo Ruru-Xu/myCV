@@ -164,40 +164,55 @@ experience:
       description: |
         Working on smart city related projects in the R&D department
 
-
 publication:
   show: true
   order: 4
   title: Publications
+  description: |
+
   items:
     - title: Journal Papers
-      description: |
-        Working on smart city related projects in the R&D department
-        
-      items:
-        - content: |
-            [Xu, Ruru]{.author}, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
-
-        - content: |
-            Fanwen Wang,...etc... [Xu, Ruru, and Ilkay Oksuz]{.author}...etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: TMI; IF:8.9; CiteScore:21.8)
-            [online]
-
-        - content: |
-            [Xu, Ruru]{.author}, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)
-            [online] | Citations: 1
-
+      authors: [Xu, Ruru]{.author}, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
+      conference: Fanwen Wang,...etc... [Xu, Ruru, and Ilkay Oksuz]{.author}...etc... . "Towards Universal Learning-based Model for Cardiac Image Reconstruction: Summary of the CMRxRecon2024 Challenge" (Top Journal: TMI; IF:8.9; CiteScore:21.8)
+      link: 
     - title: Conference Papers
-      items:
-        - content: |
-            [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
+      authors: [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
+      conference: [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
+      link:
+      
+# publication:
+#   show: true
+#   order: 4
+#   title: Publications
+#   items:
+#     - title: Journal Papers
+#       description: |
+#         Working on smart city related projects in the R&D department
+        
+#       items:
+#         - content: |
+            
 
-        - content: |
-            [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
+#         - content: |
+            
+#             [online]
 
-        - content: |
-            [Xu, Ruru]{.author}, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019. | Citations: 2
+#         - content: |
+#             [Xu, Ruru]{.author}, and Ilkay Oksuz. "Segmentation-aware MRI subsampling for efficient cardiac MRI reconstruction with reinforcement learning." Image and Vision Computing 150 (2024): 105200. (Q1; IF:4.2; CiteScore:8.5)
+#             [online] | Citations: 1
 
-    - title: Thesis
-      items:
-        - content: |
-            Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 200
+#     - title: 
+#       items:
+#         - content: |
+            
+
+#         - content: |
+            
+
+#         - content: |
+#             [Xu, Ruru]{.author}, Jungang An, Liandeng Su, and Xinli Min. "Banknotes serial number coding recognition." In 2019 IEEE International Conference on Big Data (Big Data), pp. 5101-5107. IEEE, 2019. | Citations: 2
+
+#     - title: Thesis
+#       items:
+#         - content: |
+#             Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Master's Theses, Chinese Master's Theses Full-text Database · Mar 2, 2020 | Cited by 3, Downloaded by 200
