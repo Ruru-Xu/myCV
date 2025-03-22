@@ -196,6 +196,22 @@ project:
       description: |
         + `Research and Implementation of Intelligent Evaluation Algorithm of Street Cleanliness Based on Vision; Chinese Master's Theses Full-text Database · Mar 2, 2020. <span style="color: #808080">Cited by 3, Downloaded by 200</span>
 
+award:
+  show: true
+  order: 5
+  title: Challenges
+  description: |
+
+  items:
+    - name: MICCAI 2024 CMRxRecon Challenge
+      awarder: 
+      date: 2024
+      link: 
+      description: |
+        We are <span style="color: #ff4d4f">Top 6</span> in Task 1: Multi-contrast CMR reconstruction.
+        
+        We are <span style="color: #ff4d4f">Top 5</span> in Task 2: Random sampling CMR reconstruction.
+        
 
 language:
   show: true
