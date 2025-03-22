@@ -171,6 +171,9 @@ publication:
   title: Publications
   items:
     - title: Journal Papers
+      description: |
+        Working on smart city related projects in the R&D department
+        
       items:
         - content: |
             [Xu, Ruru]{.author}, and Ilkay Oksuz. "A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity" (Q1; IF:5.5; CiteScore:13.1) just Accepted, Available online very soon
