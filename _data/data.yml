@@ -178,10 +178,10 @@ publication:
           title: A Reinforcement Learning Approach for Optimized MRI Sampling with Region-Specific Fidelity
           status: Just Accepted, Available online very soon
           metrics: Q1; IF:5.5; CiteScore:13.1
-    - title: Conference Papers
-      authors: [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
-      conference: [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
-      link:
+    # - title: Conference Papers
+    #   authors: [Xu, Ruru]{.author}, Caner Özer, and Ilkay Oksuz. "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss." (MICCAI 2024 -CMRxRecon2024 Challenge) | Citations: 1
+    #   conference: [Xu, Ruru]{.author}, and Ilkay Oksuz. "Efficient MRI reconstruction with reinforcement learning for automatic acquisition stopping." (MICCAI 2022, STACOM Workshop) | Citations: 2
+    #   link:
       
 # publication:
 #   show: true
