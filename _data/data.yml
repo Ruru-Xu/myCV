@@ -205,7 +205,7 @@ award:
   items:
     - name: MICCAI 2024 CMRxRecon Challenge
       awarder: 
-      date: 2024
+      date: 
       link: 
       description: |
         We are <span style="color: #ff4d4f">Top 6</span> in Task 1: Multi-contrast CMR reconstruction.
